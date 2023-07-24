@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.nombre-sitio samp {
+    color: #037bc0;
+}
+/*box model*/
+.sobre-nosotros{
+    background-color: red;
+    width: 200px;
+    padding: 25px;
+}
